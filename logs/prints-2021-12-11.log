@@ -1,0 +1,7 @@
+22:07:17.320 [main] INFO  resources.Base - Non Restricted User
+22:07:20.182 [main] INFO  resources.Base - Restricted User
+20:55:05.986 [TestNG-tests-2] INFO  resources.Base - Driver is initialized
+20:55:14.431 [TestNG-tests-2] INFO  resources.Base - Go to Home Page and maximize window
+20:55:14.725 [TestNG-tests-3] INFO  resources.Base - Navigation Bar is displayed
+20:55:17.387 [TestNG-tests-4] INFO  resources.Base - Non Restricted User
+20:55:21.945 [TestNG-tests-4] INFO  resources.Base - Restricted User

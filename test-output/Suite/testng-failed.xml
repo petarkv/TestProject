@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="udemyTutorial.PetarProject.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Validate Title Test(failed)" parallel="tests">
+    <classes>
+      <class name="udemyTutorial.PetarProject.ValidateTitle">
+        <methods>
+          <include name="initialize"/>
+          <include name="validateAppTitle"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- udemyTutorial.PetarProject.ValidateTitle -->
+    </classes>
+  </test> <!-- Validate Title Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

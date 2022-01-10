@@ -1,0 +1,8 @@
+20:33:30.990 [main] INFO  resources.Base - Navigation Bar is displayed
+20:33:46.099 [main] INFO  resources.Base - Non Restricted User
+20:33:50.291 [main] INFO  resources.Base - Restricted User
+20:36:24.260 [main] INFO  resources.Base - Driver is initialized
+20:36:28.903 [main] INFO  resources.Base - Go to Home Page and maximize window
+20:36:29.094 [main] INFO  resources.Base - Successfully navigated
+20:36:42.419 [main] INFO  resources.Base - Navigation Bar is displayed
+20:36:57.348 [main] INFO  resources.Base - Non Restricted User
