@@ -40,8 +40,8 @@ public class Base {
 		else if(browserName.equals("chrome"))
 		{
 			// chrome
-//			System.setProperty("webdriver.chrome.driver", "C:\\Users\\Petar\\ChromeDriver\\chromedriver.exe");
-//			driver = new ChromeDriver();
+			System.setProperty("webdriver.chrome.driver", "C:\\Users\\Petar\\ChromeDriver\\chromedriver.exe");
+			driver = new ChromeDriver();
 		}
 		else if(browserName.equals("IE"))
 		{
